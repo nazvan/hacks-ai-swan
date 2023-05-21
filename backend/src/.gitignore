@@ -1,0 +1,4 @@
+/venv/
+/.idea/
+/test.db
+ai_models/*.pt
